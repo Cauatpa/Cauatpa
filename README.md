@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack/ Front-End`**
 
-Me chamo CauãThurler, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de
+Me chamo Cauã Thurler, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de
 Sistemas, com ênfase em Front-End. Já desenvolvi projetos web próprios, e sempre
 busco melhorar minhas atuais habilidades. 
 
