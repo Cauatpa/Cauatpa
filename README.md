@@ -88,9 +88,6 @@ busco melhorar minhas atuais habilidades.
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
 />
 
-<br />
-<br />
-
 
 <br />
 <br />
