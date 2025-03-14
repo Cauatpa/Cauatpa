@@ -1,6 +1,6 @@
 # 👨‍💻 Cauã Thurler 
 
-**`Desenvolvedor Full-Stack/ Front-End`**
+**`Desenvolvedor Full-Stack/Front-End`**
 
 Prazer me chamo Cauã Thurler, tenho 21 anos. Atualmente estou cursando Análise e Desenvolvimento de
 Sistemas, com ênfase em Front-End. Já desenvolvi projetos web próprios, e sempre
