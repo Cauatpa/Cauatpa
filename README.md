@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Full-Stack/Front-End`**
 
-Prazer me chamo Cauã Thurler, tenho 22 anos. Atualmente estou cursando Análise e Desenvolvimento de
+Prazer me chamo Cauã Thurler, tenho 22 anos. Formado em Análise e Desenvolvimento de
 Sistemas, com ênfase em Front-End. Já desenvolvi projetos web próprios, e sempre
 busco melhorar minhas atuais habilidades. 
 
