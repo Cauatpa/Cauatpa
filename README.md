@@ -1,135 +1,83 @@
 # 👨‍💻 Cauã Thurler 
 
-**`Desenvolvedor Full-Stack/Front-End`**
+**`Desenvolvedor Full Stack`**
 
-Prazer me chamo Cauã Thurler, tenho 22 anos. Formado em Análise e Desenvolvimento de
-Sistemas, com ênfase em Full-Stack. Já desenvolvi projetos de aplicações web, sistemas internos, e sempre
-busco melhorar minhas atuais habilidades. 
+👋 Olá! Eu sou o Cauã Thurler
+
+Sou formado em **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Full Stack**.  
+Possuo experiência no desenvolvimento de **aplicações web**, **sistemas internos**, **automação** e **aplicativos móveis**, atuando tanto no **front-end** quanto no **back-end**.
+
+Tenho foco em **boas práticas**, **qualidade de código** e **experiência do usuário**, e estou em constante evolução técnica.
 
 ### Connect with me ~
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](eu.ctpa2003@gmail.com)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:eu.ctpa2003@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cauã-thurler)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/thurler.png/)
 
 
-### My Stack ~
+### 🚀 My Stacks ~
 
-<img
-  align="left"
-  alt="HTML"
-  title="HTML"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"
-/>
+<table>
+  <tr>
+    <td valign="top">
 
-<img
-  align="left"
-  alt="CSS"
-  title="CSS"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
-/>
+### 🎨 Front-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-line.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="30"/>
 
-<img
-  align="left"
-  alt="JavaScript"
-  title="JavaScript"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
+  </td>
+  <td valign="top">
 
-<img
-  align="left"
-  alt="TypeScript"
-  title="TypeScript"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
-/>
+### 🧠 Back-end
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg"
+     width="30"
+     alt="NestJS"/>
 
-<img
-  align="left"
-  alt="Node.js"
-  title="Node.js"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
+  </td>
+  <td valign="top">
 
-<img
-  align="left"
-  alt="React"
-  title="React"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"
-/>
-<img
-  align="left"
-  alt="Bootstrap"
-  title="Bootstrap"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg"
-/>
-<img
-  align="left"
-  alt="Git"
-  title="Git"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-/>
-<img
-  align="left"
-  alt="Python"
-  title="Python"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
-/>
+### 🗄️ DB & Cloud
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg"
+     width="30"
+     alt="AWS"
+     style="fill:#ffffff"/>
 
-<img
-  align="left"
-  alt="Wordpress"
-  title="Wordpress"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
-/>
+  </td>
+  <td valign="top">
 
-<img
-  align="left"
-  alt="PHP"
-  title="PHP"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
-/>
+### 🛠️ Tools & CMS
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
+     width="30"
+     style="filter: invert(1);"
+     alt="WordPress"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/insomnia.svg"
+     width="30"
+     alt="Insomnia"
+     style="filter: invert(1);"/>
+  </td>
+  </tr>
+</table>
 
-<img
-  align="left"
-  alt="Laravel"
-  title="Laravel"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
-/>
+### 🧩 Arquitetura & Conceitos
+- APIs RESTful
+- MVC (Model–View–Controller)
+- Integração Front-end ↔ Back-end
+- Boas práticas de versionamento
 
-<img
-  align="left"
-  alt="MySQL"
-  title="MySQL"
-  width="30px"
-  style="padding-right: 10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
-/>
-
-
-<br />
 <br />
 
 <picture align="center">
