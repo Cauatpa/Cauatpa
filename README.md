@@ -2,12 +2,12 @@
 
 **`Desenvolvedor Full Stack`**
 
-👋 Olá! Eu sou o Cauã Thurler
+👋 Hi! I'm **Cauã Thurler**
 
-Sou formado em **Análise e Desenvolvimento de Sistemas**, com foco em **Desenvolvimento Full Stack**.  
-Possuo experiência no desenvolvimento de **aplicações web**, **sistemas internos**, **automação** e **aplicativos móveis**, atuando tanto no **front-end** quanto no **back-end**.
+I'm a **Full Stack Developer** with a degree in **Systems Analysis and Development**.  
+I have experience building **web applications**, **internal systems**, **automation solutions**, and **mobile applications**, working across both **front-end** and **back-end**.
 
-Tenho foco em **boas práticas**, **qualidade de código** e **experiência do usuário**, e estou em constante evolução técnica.
+I focus on **clean code**, **best practices**, and **user experience**, and I’m constantly improving my technical skills.
 
 ### 🚀 My Stacks ~
 
@@ -68,12 +68,12 @@ Tenho foco em **boas práticas**, **qualidade de código** e **experiência do u
   </tr>
 </table>
 
-### 🧩 Arquitetura & Conceitos
-- APIs RESTful
+### 🧩 Architecture & Practices
+- RESTful APIs
 - MVC (Model–View–Controller)
-- Integração Front-end ↔ Back-end
-- Boas práticas de versionamento
-- Ambiente local com XAMPP (Apache, PHP, MySQL)
+- Front-end ↔ Back-end integration
+- Version control best practices (Git)
+- Local development environment with XAMPP (Apache, PHP, MySQL)
 
 ### Connect with me ~
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:eu.ctpa2003@gmail.com)
