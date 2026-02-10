@@ -53,11 +53,13 @@ Tenho foco em **boas práticas**, **qualidade de código** e **experiência do u
      width="30"
      alt="AWS"
      style="fill:#ffffff"/>
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="30" alt="Apache"/>
   </td>
   <td valign="top">
 
 ### 🛠️ Tools & CMS
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" alt="VS Code"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg"
@@ -77,6 +79,7 @@ Tenho foco em **boas práticas**, **qualidade de código** e **experiência do u
 - MVC (Model–View–Controller)
 - Integração Front-end ↔ Back-end
 - Boas práticas de versionamento
+- Ambiente local com XAMPP (Apache, PHP, MySQL)
 
 <br />
 
