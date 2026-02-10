@@ -9,12 +9,6 @@ Possuo experiência no desenvolvimento de **aplicações web**, **sistemas inter
 
 Tenho foco em **boas práticas**, **qualidade de código** e **experiência do usuário**, e estou em constante evolução técnica.
 
-### Connect with me ~
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:eu.ctpa2003@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cauã-thurler)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/thurler.png/)
-
-
 ### 🚀 My Stacks ~
 
 <table>
@@ -80,6 +74,11 @@ Tenho foco em **boas práticas**, **qualidade de código** e **experiência do u
 - Integração Front-end ↔ Back-end
 - Boas práticas de versionamento
 - Ambiente local com XAMPP (Apache, PHP, MySQL)
+
+### Connect with me ~
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6)](mailto:eu.ctpa2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/cauã-thurler)
+[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/thurler.png/)
 
 <br />
 
