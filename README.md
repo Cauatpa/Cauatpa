@@ -3,7 +3,7 @@
 **`Desenvolvedor Full-Stack/Front-End`**
 
 Prazer me chamo Cauã Thurler, tenho 22 anos. Formado em Análise e Desenvolvimento de
-Sistemas, com ênfase em Full-Stack. Já desenvolvi projetos de sites web, sistemas internos (controle de estoque, abertura de chamados e afins..), e sempre
+Sistemas, com ênfase em Full-Stack. Já desenvolvi projetos de aplicações web, sistemas internos, e sempre
 busco melhorar minhas atuais habilidades. 
 
 ### Connect with me ~
