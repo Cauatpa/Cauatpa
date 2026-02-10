@@ -99,6 +99,15 @@ busco melhorar minhas atuais habilidades.
 
 <img
   align="left"
+  alt="Laravel"
+  title="Laravel"
+  width="30px"
+  style="padding-right: 10px"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"
+/>
+
+<img
+  align="left"
   alt="MySQL"
   title="MySQL"
   width="30px"
