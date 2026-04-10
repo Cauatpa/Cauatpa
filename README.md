@@ -82,4 +82,4 @@ I focus on **clean code**, **best practices**, and **user experience**, and I’
 
 <br />
 
-<img src="https://raw.githubusercontent.com/Cauatpa/snake/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Cauatpa/Cauatpa/output/github-contribution-grid-snake.svg" width="100%">
